@@ -1,0 +1,23 @@
+{
+  "name": "pugconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbijker/pugconverter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbijker/pugconverter/issues"
+  },
+  "homepage": "https://github.com/wbijker/pugconverter#readme",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
